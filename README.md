@@ -1,4 +1,3 @@
-# AndreGiacomini
 ## 👋 Olá, eu sou o André Giacomini!
 
 Sou formado em Direito, com pós-graduação em Direito Civil e Processo Civil, e atualmente em transição de carreira para a área de tecnologia. Estou cursando Análise e Desenvolvimento de Sistemas e me dedicando ao aprendizado contínuo em desenvolvimento de software.
